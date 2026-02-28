@@ -2,4 +2,15 @@
 
 
 Ferns and Petals Sales Analysis
-This project analyzes a transactional dataset from FNP (Ferns and Petals), an online gifting platform specializing in occasions such as Diwali, Raksha Bandhan, Holi, Valentine's Day, birthdays, and anniversaries. The analysis focuses on building an interactive dashboard that highlights key business metrics including total revenue, average order-to-delivery time, monthly sales performance for 2023, and top revenue-generating products. It further explores customer behavior through average customer spending, sales performance of the top 5 products, and the top 10 cities by order volume. The project also examines operational efficiency by studying the relationship between order quantity and delivery time, and compares revenue across different occasions to uncover which events drive the most business. Finally, it identifies product popularity by occasion, helping FNP optimize its product mix and marketing strategy for each festival and celebration.
+This project analyzes a transactional dataset from FNP (Ferns and Petals), 
+an online gifting platform specializing in occasions such as Diwali,
+Raksha Bandhan, Holi, Valentine's Day, birthdays, and anniversaries.
+The analysis focuses on building an interactive dashboard that highlights key business metrics including total revenue, 
+average order-to-delivery time, monthly sales performance for 2023,
+and top revenue-generating products. 
+It further explores customer behavior through average customer spending, 
+sales performance of the top 5 products, and the top 10 cities by order volume. 
+The project also examines operational efficiency by studying the relationship between order quantity and delivery time,
+and compares revenue across different occasions to uncover which events drive the most business.
+Finally, it identifies product popularity by occasion, 
+helping FNP optimize its product mix and marketing strategy for each festival and celebration.
